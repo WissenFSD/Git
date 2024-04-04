@@ -2,7 +2,7 @@
 
 namespace Git.Controllers
 {
-    public class DefaultController : Controller
+    public class DefaulController : Controller
     {
         public IActionResult Index()
         {
