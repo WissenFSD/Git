@@ -10,7 +10,7 @@ namespace Git.Controllers
 
 		public HomeController()
 		{
-		
+		//
 		}
 
 		public IActionResult Index()
